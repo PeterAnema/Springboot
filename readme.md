@@ -1,3 +1,7 @@
+## My Spring Boot Tips
+
+* https://peteranema.github.io/blog/2021/02/02/how-to-work-with-springboot
+
 ## My Demo Spring Boot Repositories
 
 * https://github.com/PeterAnema/springboot-01-hello-world
